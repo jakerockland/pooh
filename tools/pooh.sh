@@ -2,7 +2,7 @@
 
 # Outputs to stdout each Gitignore file in main gitignore directory
 # as a hash key-value pair, as used by `pooh.rb`
-for filename in ./gitignore/*.gitignore; do
+for filename in ../gitignore/*.gitignore; do
 	# Remove path prefix
 	gitignore=${filename##*/}
 
