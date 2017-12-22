@@ -8,7 +8,7 @@ Inspired by a desire to build something simple yet functional with Ruby.
 
 ## Installation
 
-Pooh can be installed with [Homebrew](https://brew.sh):
+Pooh can be downloaded and run as a standalone file, or can also be installed with [Homebrew](https://brew.sh):
 
 ```bash
 $ brew tap jakerockland/pooh
