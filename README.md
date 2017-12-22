@@ -4,7 +4,7 @@
 
 A simple program for adding one of Github's [useful .gitignore templates](https://github.com/github/gitignore) to your project.
 
-Inspired by desire to build something simple yet functional with Ruby.
+Inspired by a desire to build something simple yet functional with Ruby.
 
 ## Installation
 
