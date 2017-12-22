@@ -16,9 +16,7 @@ Pooh can be installed with [Homebrew](https://brew.sh).
 
 To use Pooh just pass the command your desired language or framework.
 
-For example, to use Github's template for Swift, use `pooh swift`.
-
-Pooh is case-insensitive and support all languages found [here](https://github.com/github/gitignore).
+For example, to use Github's template for Swift, use `pooh swift`. Pooh is case-insensitive and support all languages found [here](https://github.com/github/gitignore).
 
 For information on additional command line options, use `pooh --help`.
 
